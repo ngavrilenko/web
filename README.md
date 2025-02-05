@@ -7,3 +7,7 @@
 (Тест-кейс и баг-репорт модуля корзины, оплаты и оформления заказов)
 [https://github.com/ngavrilenko/web/commit/96a454a88357eb96620d7ff4a064a09d84437b32]
 [https://github.com/ngavrilenko/web/commit/64b342fcd830cb8aabfbb29340ece3ff6c5ce1f6]
+(Перехват и изменение трафика)
+[https://github.com/ngavrilenko/web/commit/79ce450c002d8761dab5d5db5000545aaac295d7]
+
+
